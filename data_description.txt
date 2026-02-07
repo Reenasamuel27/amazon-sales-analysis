@@ -1,0 +1,25 @@
+Amazon Sales Data Analysis
+
+Tables Used:
+
+SALES TABLE
+Product Category
+Product Description
+Price(Dollar)
+Number of  reviews
+Shipment
+Order Date
+
+DATE TABLE (Created in Power BI)
+Date
+Month Name
+Month Number
+Week 
+Quarter Number
+Qtr
+
+Calculated Measures:
+YDT Sales
+YDT Reviews
+YDT Product Sales
+QDT 
