@@ -118,6 +118,8 @@ Business-focused data analysis
 
 GitHub documentation and version control
 
+PowerBi service URL:https://app.powerbi.com/groups/me/reports/633f3ecf-5e3a-492e-9c51-f905464236bc/ad3a00d343a0071e8c99?experience=power-bi
+
 Author
 
 Reena Samuel
